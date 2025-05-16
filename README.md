@@ -2,7 +2,7 @@
 확률과 통계에 대해서 정리해 놓았습니다.
 
 ## Statitics
-위 내용은 <Head first statistics>책을 참고하여 정리한 내용입니다.
+위 내용은 **Head first statistics**책을 참고하여 정리한 내용입니다.
 
 목차
 1. 정보의 시각화 : 첫인상
